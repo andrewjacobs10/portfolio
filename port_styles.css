@@ -34,7 +34,7 @@ footer {
 .pill {
   padding: 0.5em 0.8em;
   font-size: 14px;
-  background-color: black;
+  background-color: var(--pico-background-color);
   font-weight: bold;
   margin-right: 0.5em;
   margin-top: 1em;
